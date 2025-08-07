@@ -1,0 +1,16 @@
+Month,Category,Budgeted_Amount,Actual_Amount,Difference
+Jan,Rent,1000,1200,200
+Jan,Groceries,300,450,150
+Jan,Utilities,150,100,-50
+Jan,Entertainment,200,300,100
+Jan,Transport,100,180,80
+Feb,Rent,1000,950,-50
+Feb,Groceries,300,150,-150
+Feb,Utilities,150,200,50
+Feb,Entertainment,200,300,100
+Feb,Transport,100,50,-50
+Mar,Rent,1000,1100,100
+Mar,Groceries,300,500,200
+Mar,Utilities,150,90,-60
+Mar,Entertainment,200,250,50
+Mar,Transport,100,150,50
