@@ -40,7 +40,8 @@ This project showcases the use of advanced visualization techniques and interact
 | `VisualAnalytics/Visualize.pbix`    | Power BI report        |
 | `VisualAnalytics/Data/`             | COVID-19 dataset       |
 
-**External Dataset:** `owid-covid-data.csv`
+**External Dataset:** [owid-covid-data.csv](https://covid.ourworldindata.org/data/owid-covid-data.csv)
+
 
 ---
 
