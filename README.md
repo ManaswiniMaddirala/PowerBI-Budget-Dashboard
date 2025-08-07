@@ -1,4 +1,4 @@
-# PowerBI-Budget-Dashboard
+# PowerBI-Dashboard
 
 This repository contains three Power BI dashboards I developed as part of my journey in mastering data visualization and business intelligence. Each project demonstrates how real-world data can be transformed into meaningful insights through well-structured visuals.
 
